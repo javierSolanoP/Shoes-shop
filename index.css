@@ -6,7 +6,7 @@
 }
 
 /*Version movil*/  
-@media screen and (min-width: 1px) and (max-width: 300px){
+@media screen and (min-width: 1px) and (max-width: 400px){
     body{
         width: 100vw;
         height: 250vh;
