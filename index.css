@@ -7,7 +7,7 @@
 
 /*Version movil*/  
 @media screen and (min-width: 1px) and (max-width: 400px){
-    
+
     body{
         width: 100vw;
         height: 250vh;
@@ -222,7 +222,7 @@
 }
 
 /*Version ordenador*/
-@media  screen and (min-width: 301px){
+@media  screen and (min-width: 401px){
 body{
     width: 99.3vw;
     height: 150vh;
